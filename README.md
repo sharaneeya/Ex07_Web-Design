@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <script type="text/javascript">
@@ -62,6 +63,7 @@ Enter option for doing the corresponding operation
 </p>
 </body>
 </html>
+```
 
 
 
